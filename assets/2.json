@@ -1,0 +1,19 @@
+{
+    "name": "Cute Animals",
+    "symbol": "",
+    "image": "3.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "3.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "8ki28zSo97ajmhCcsEdG7UjUid9gBB5xhjmKB4DDh7wQ",
+          "share": 100
+        }
+      ]
+    }
+  }
